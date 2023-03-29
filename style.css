@@ -1,0 +1,19 @@
+.country {
+  display: inline-block;
+  width: 25%;
+  text-align: center;
+  margin-bottom: 10px;
+}
+.flag {
+  width: 150px;
+  height: 120px;
+  margin-bottom: 10px;
+}
+.name {
+  font-size: 24px;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+.population {
+  font-size: 18px;
+}
